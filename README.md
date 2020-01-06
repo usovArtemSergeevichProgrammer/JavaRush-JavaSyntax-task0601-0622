@@ -1,5 +1,4 @@
-Знакомство с объектами:
-
-- Написание своих объектов
-- Время жизни объектов
-- Статические переменные
+Acquaintance with objects:
+Writing objects
+The lifetime of objects
+Static variable
